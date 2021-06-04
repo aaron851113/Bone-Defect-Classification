@@ -2,9 +2,9 @@
 
 ## 0. Data and Conda Env.
 - Fine Bone 
-<img src="img_fine.jpg" width="224" height="224" /> <br />
+<img src="./img_fine.jpg" width="224" height="224" /> <br />
 - Broke Bone
-<img src="img_broke.jpg" width="224" height="224" /> <br />
+<img src="./img_broke.jpg" width="224" height="224" /> <br />
 
 - Conda Env.
 	- Python 3.5up
