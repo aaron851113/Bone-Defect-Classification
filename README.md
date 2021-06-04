@@ -2,9 +2,9 @@
 
 ## 0. Data and Conda Env.
 - Fine Bone 
-<img src="defect/Train/Fine/2020-10-13_9um_50kv_Human_Femur Head_#Lo1-V&Lo2-V__rec_Tra11-10001.tif" width="224" height="224" /> <br />
+<img src="img_fine.jpg" width="224" height="224" /> <br />
 - Broke Bone
-<img src="defect/Train/Broke/L01-P0000.tif" width="224" height="224" /> <br />
+<img src="img_broke.jpg" width="224" height="224" /> <br />
 
 - Conda Env.
 	- Python 3.5up
