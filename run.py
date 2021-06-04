@@ -7,8 +7,6 @@ from  convnet import ConvNet as convnet
 import argparse
 import glob
 import os
-import cv2
-import shutil
 from PIL import Image
 
 parser = argparse.ArgumentParser("sota")
